@@ -24,6 +24,11 @@ With TestMu AI (Formerly LambdaTest), you can run Mocha Tests With Custom Test N
 - Node.js and npm (latest stable)
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Node.js and npm (latest stable)
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Steps
 
 To set test name as method name in Mocha-js, change the 'name' attribute in the capabilites located at`conf/single.conf.js` like so:
